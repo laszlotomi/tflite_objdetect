@@ -1,0 +1,26 @@
+<annotation>
+	<folder>router3</folder>
+	<filename>IMG_0694.JPEG</filename>
+	<path>C:\Users\A78773684\DataScience\Projects\AR-glas\Project\dataset\router3\IMG_0694.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>router3</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>440</xmin>
+			<ymin>247</ymin>
+			<xmax>726</xmax>
+			<ymax>390</ymax>
+		</bndbox>
+	</object>
+</annotation>

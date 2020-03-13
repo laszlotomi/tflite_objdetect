@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Router Frank</folder>
+	<filename>IMG_0298.JPEG</filename>
+	<path>/home/michal/Desktop/Android/Router Frank/IMG_0298.JPEG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2048</width>
+		<height>1536</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>router</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>236</xmin>
+			<ymin>134</ymin>
+			<xmax>855</xmax>
+			<ymax>533</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>iCloud Photos from Frank Rebmann</folder>
+	<filename>IMG_0399.JPEG</filename>
+	<path>C:\Users\A103739334\Documents\AR\iCloud Photos from Frank Rebmann\iCloud Photos from Frank Rebmann\IMG_0399.JPG</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Router2</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>418</xmin>
+			<ymin>163</ymin>
+			<xmax>739</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
